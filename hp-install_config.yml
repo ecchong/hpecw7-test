@@ -1,5 +1,5 @@
 ---
-
+# test
   - name: Example for using install config
     hosts: hp1
     gather_facts: no
